@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Liverpool Polling Station",
+    "Location": "South Liverpool",
+    "PrimaryContact": "Mr Polling Man",
+    "Latitude": -8.783195,
+    "Longitude": 34.508523
+  },
+  {
+    "Name": "Ormskirk Polling Station",
+    "Location": "Ormskirk",
+    "PrimaryContact": "Joe Frazier",
+    "Latitude": 12.769013,
+    "Longitude": -85.602364
+  },
+  {
+    "Name": "Manchester Polling Station",
+    "PrimaryContact": "John Smith",
+    "Latitude": 1.957709,
+    "Longitude": 37.297204
+  }
+]
